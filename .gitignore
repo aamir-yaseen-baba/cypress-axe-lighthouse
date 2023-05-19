@@ -3,4 +3,6 @@ lighthouse.html
 cypress/screenshots
 cypress/videos
 cypress/downlaods
+allure-report
+allure-results
 .DS_Store
