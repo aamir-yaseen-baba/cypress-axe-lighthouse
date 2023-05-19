@@ -1,0 +1,22 @@
+{
+  "name": "axe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cypress-audit/lighthouse": "^1.4.2",
+    "@shelex/cypress-allure-plugin": "^2.38.3",
+    "axe-core": "^4.6.3",
+    "cypress": "^12.9.0",
+    "cypress-axe": "^1.4.0"
+  },
+  "dependencies": {
+    "scroll-to-bottomjs": "^1.1.0"
+  }
+}

@@ -1,0 +1,5 @@
+node_modules
+lighthouse.html
+cypress/screenshots
+cypress/videos
+cypress/downlaods
