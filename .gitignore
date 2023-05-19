@@ -3,3 +3,4 @@ lighthouse.html
 cypress/screenshots
 cypress/videos
 cypress/downlaods
+.DS_Store
